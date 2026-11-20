@@ -50,9 +50,9 @@ Choose **Folder Access Guide…** from the menu bar to check access to a folder 
 
 ## Download and install
 
-The current build is for Apple silicon Macs running macOS 26 or later. Download [Convertr.zip](https://github.com/grphxdsign-ops/Convertr/releases/latest/download/Convertr.zip), open it in Finder, and drag `Convertr.app` to Applications. The zip is about 220 MB because it includes the conversion engines.
+The current release is for Apple silicon Macs running macOS 26 or later. Download [Convertr.zip](https://github.com/grphxdsign-ops/Convertr/releases/latest/download/Convertr.zip) (about 217 MB; it includes the conversion engines), open it in Finder, and drag `Convertr.app` to Applications.
 
-This test build is ad-hoc signed and is not notarized. On first launch, macOS may block it; Control-click Convertr, choose **Open**, and confirm. Then approve the folder and Finder permissions requested by macOS.
+The v0.1.1 release is signed with Developer ID Application, notarized by Apple, and stapled. Open it normally from Applications; a first-launch Control-click override should not be needed. macOS may still request folder and Finder permissions.
 
 ## License and notices
 
