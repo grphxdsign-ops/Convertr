@@ -1,0 +1,7 @@
+Convertr is adapted from Clementine by Saad Anjum:
+https://github.com/Saadanjum0/clementine
+
+The upstream project is distributed under the MIT License. Its license text is
+preserved in LICENSE. This version adds local conversion and editing tools, a
+folder access guide, a portable Apple silicon package with bundled engines,
+and updates the app bundle and documentation.
